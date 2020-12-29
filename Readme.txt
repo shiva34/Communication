@@ -1,7 +1,7 @@
 			REPORT/ReadMe.
 #Full design of BPSK using MORSE encoder at transmittion 
    and Demodulation and Decoding at Reciever except the WGN in the medium.
-1)No noise is added to see the conversions clearly, in the later part we have plotted SER(Symbol error rates.)
+1)No noise is added to see the conversions clearly, in the other directory we have plotted SER(Symbol error rates.)
 step1)converting input signal to morse code.
 step2)Mapping the morse code to corresponding Binary numbers using some logic
 	%  A '.' is represented by 1.
